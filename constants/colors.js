@@ -1,5 +1,5 @@
 const Colors={
-    primary500: '#72083c',
+    primary500: 'blue',
     primary600:'#4e0329',
     primary800:'#3b021f',
     accent500: '#ddb52f'
